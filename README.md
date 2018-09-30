@@ -1,2 +1,2 @@
 # tablediff
-a fast tool for compare two tables
+a fast tool for comparing two tables
