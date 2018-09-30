@@ -1,0 +1,27 @@
+{
+  "name": "tablediff",
+  "version": "1.0.0",
+  "description": "a fast tool for comparing two tables",
+  "main": "index.js",
+  "scripts": {
+    "test": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CalogeroMandracchia/tablediff.git"
+  },
+  "keywords": [
+    "table",
+    "compare",
+    "node"
+  ],
+  "author": "Calogero Mandracchia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CalogeroMandracchia/tablediff/issues"
+  },
+  "homepage": "https://github.com/CalogeroMandracchia/tablediff#readme",
+  "dependencies": {
+    "rangex": "^1.0.1"
+  }
+}
